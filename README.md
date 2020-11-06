@@ -16,7 +16,8 @@ An index repository of prebuilt Windows binaries of OpenCV (Files stored at Goog
             <th>Python</th>
             <th>Library Type</th>
             <th>World</th>
-            <th>Downloads</th>
+            <th>Google Drive</th>
+            <th>奶牛快传</th>
             <th>Size</td>
         </tr>
     </thead>
@@ -31,38 +32,42 @@ An index repository of prebuilt Windows binaries of OpenCV (Files stored at Goog
             <td rowspan="2">3.8.3</td>
             <td>Static</td>
             <td rowspan="2">Yes</td>
-            <td><a href="https://drive.google.com/file/d/12OCyPSyhPbfAVP6uCzzEhD-6mZaISSnq/view?usp=sharing">:arrow_down:</a></td>
-            <td>40.43MB</td>
+            <td><a href="https://drive.google.com/file/d/1479_1xUgsgOmCS9megSwXnLSsFF5sz9N/view?usp=sharing" title="cv2-Static.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/fca034c1226d46" title="cv2-Static.rar">:arrow_down:</a></td>
+            <td>61.95MB</td>
         </tr>
         <tr>
             <td>Dynamic</td>
-            <td><a href="https://drive.google.com/file/d/1jjCebKqpgiZx3xcs7AopB8hFyFHi3FB8/view?usp=sharing">:arrow_down:</a></td>
-            <td>1.93MB</td>
+            <td><a href="https://drive.google.com/file/d/1rN377fjTuoQZzJHJyUJa16fanmkpKa9d/view?usp=sharing" title="cv2-Dynamic.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/c621276422eb48" title="cv2-Dynamic.rar">:arrow_down:</a></td>
+            <td>2.45MB</td>
         </tr>
         <tr>
             <td rowspan="4">-</td>
-            <td>Static</td>
+            <td rowspan="2">Static</td>
             <td>No</td>
-            <td><a href="https://drive.google.com/file/d/1H_16D1ohHyK3wTcjJaVKGqHzWgS-Sc23/view?usp=sharing">:arrow_down:</a></td>
-            <td>87.70MB</td>
+            <td><a href="https://drive.google.com/file/d/1WmCgZhxU3hFsLBi60e0Hk9DuGWnnUJiA/view?usp=sharing" title="OpenCV-4.4.0-Static.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/eaeb2343f6ef40" title="OpenCV-4.4.0-Static.rar">:arrow_down:</a></td>
+            <td>128.08MB</td>
         </tr>
         <tr>
-            <td>Static</td>
             <td>Yes</td>
-            <td><a href="https://drive.google.com/file/d/1GmgzTU_dRZ32USoHAygFGqYN_5EGeMs9/view?usp=sharing">:arrow_down:</a></td>
-            <td>87.52MB</td>
+            <td><a href="https://drive.google.com/file/d/1AzdglooIj92CZOe7l_ena-X5SHtoOYFP/view?usp=sharing" title="OpenCV-4.4.0-Static-World.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/4283c3597e2e4e" title="OpenCV-4.4.0-Static-World.rar">:arrow_down:</a></td>
+            <td>129.01MB</td>
         </tr>
         <tr>
-            <td>Dynamic</td>
+            <td rowspan="2">Dynamic</td>
             <td>No</td>
-            <td><a href="https://drive.google.com/file/d/1VtvVXn9qPFMyFRIvrxbz3arhEma_Iptg/view?usp=sharing">:arrow_down:</a></td>
-            <td>44.49MB</td>
+            <td><a href="https://drive.google.com/file/d/1fADWfjkQnADSw2jX6biaE9y2z_89Q7Y5/view?usp=sharing" title="OpenCV-4.4.0-Dynamic.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/6d2ce1c452eb4f" title="OpenCV-4.4.0-Dynamic.rar">:arrow_down:</a></td>
+            <td>67.70MB</td>
         </tr>
         <tr>
-            <td>Dynamic</td>
             <td>Yes</td>
-            <td><a href="https://drive.google.com/file/d/1-LIUtU7upa73YjwA9qHWGKA97Fv7s2ZU/view?usp=sharing">:arrow_down:</a></td>
-            <td>42.18MB</td>
+            <td><a href="https://drive.google.com/file/d/1Tiz_3tHOAVWzRnLbjvlr2YDUNa4JHiNE/view?usp=sharing" title="OpenCV-4.4.0-Dynamic-World.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/072b6291982249" title="OpenCV-4.4.0-Dynamic-World.rar">:arrow_down:</a></td>
+            <td>66.14MB</td>
         </tr>
     </tbody>
 </table>
