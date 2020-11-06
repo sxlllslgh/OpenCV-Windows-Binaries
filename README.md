@@ -17,7 +17,7 @@ An index repository of prebuilt Windows binaries of OpenCV (Files stored at Goog
             <th>Library Type</th>
             <th>World</th>
             <th>Google Drive</th>
-            <th>奶牛快传</th>
+            <th nowrap="nowrap">奶牛快传</th>
             <th>Size</td>
         </tr>
     </thead>
