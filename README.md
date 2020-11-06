@@ -4,8 +4,6 @@ An index repository of prebuilt Windows binaries of OpenCV (Files stored at Goog
 
 一个预编译的Windows下的OpenCV索引仓库（文件主体在谷歌云盘和奶牛快传）。
 
-## OpenCV
-
 <table>
     <thead align="center">
         <tr>
@@ -69,7 +67,7 @@ An index repository of prebuilt Windows binaries of OpenCV (Files stored at Goog
     </tbody>
 </table>
 
-### Usage
+## Usage
 
 1. Extract files to ***Python Install Path\\Lib\\site-packages\\cv2***.
 
